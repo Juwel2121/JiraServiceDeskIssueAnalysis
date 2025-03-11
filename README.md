@@ -1,6 +1,6 @@
 # 📊 Jira Service Desk Issue Analysis
 
-This project presents an in-depth analysis of Jira Service Desk issues, providing key insights to improve service management efficiency.
+This project analyzes Jira Service Desk issues to improve service management efficiency. It identifies trends, resolution patterns, and customer interactions to uncover bottlenecks, enhance response times, and optimize support processes. The insights and visualizations provide actionable guidance for improving service delivery and customer satisfaction.
 
 ## 🔍 Overview
 The analysis explores various aspects of Jira issues, including:
@@ -26,7 +26,6 @@ Below are key visual insights from the analysis:
 
 ## 🛠️ Tools Used
 - **Power BI** for visualization and dashboard creation
-- **Excel** for data cleaning and preparation
 - **Jira Service Desk** data for issue tracking
 
 ## 📄 How to Use
